@@ -1,0 +1,33 @@
+.menu-bar {
+    -fx-background-color: #404552;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #212121;
+}
+.menu-button {
+    -fx-background-color: #404552;
+    -fx-text-fill: #ffffff;
+}
+.menu {
+    -fx-background-color: #404552;
+    -fx-text-fill: #ffffff;
+}
+.menu-item {
+    -fx-background-color: #404552;
+    -fx-text-fill: #ffffff;
+}
+.context-menu {
+    -fx-background-color: #404552;
+}
+.menu-item .label {
+    -fx-text-fill: #bdbdbd;
+}
+.menu-bar .label {
+    -fx-text-fill: #bdbdbd;
+}
+.menu-item:focused .label {
+    -fx-text-fill: #ffffff;
+}
+.menu-item:focused {
+    -fx-background-color: #469af4;
+
+}
